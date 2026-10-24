@@ -1,0 +1,13 @@
+dataset,n,d,anomaly definition,proportion of anomalies
+Http,567498,3,attack,0.39%
+ForestCover,286048,10,class 4 vs. class 2,0.96%
+Mulcross,262144,4,2 clusters,10.00%
+Smtp,95156,3,attack,0.03%
+Shuttle,49097,9,"classes 2, 3, 5, 6, 7",7.15%
+Mammography,11183,6,class 1,2.32%
+Annthyroid,7200,6,"classes 1, 2",7.42%
+Satellite,6435,36,3 smallest classes,31.64%
+Pima,768,8,pos,34.90%
+Breastw,683,9,malignant,34.99%
+Arrhythmia,452,274,"classes 03, 04, 05, 07, 08, 09, 14, 15",14.60%
+Ionosphere,351,32,bad,35.90%
